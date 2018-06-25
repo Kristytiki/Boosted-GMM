@@ -1,7 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
- Stat 201C
  Author: Zheqi Wu
  Date : 06/10/2018
  Description: boosting GMM
